@@ -26,5 +26,5 @@ mod 'puppetlabs-terraform',
 #
 mod 'terraform-google_pe_arch',
     git:          'https://github.com/puppetlabs/terraform-google-pe_arch.git',
-    ref:          'master',
+    ref:          'internaldns_metadata',
     install_path: 'ext/terraform'
